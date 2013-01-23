@@ -1,0 +1,4 @@
+c:\users\letron\documents\visual studio 2010\Projects\Turtle\Turtle\bin\Debug\Turtle.exe
+c:\users\letron\documents\visual studio 2010\Projects\Turtle\Turtle\bin\Debug\Turtle.pdb
+c:\users\letron\documents\visual studio 2010\Projects\Turtle\Turtle\obj\x86\Debug\Turtle.exe
+c:\users\letron\documents\visual studio 2010\Projects\Turtle\Turtle\obj\x86\Debug\Turtle.pdb
